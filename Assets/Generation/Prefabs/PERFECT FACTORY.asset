@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5eba0567554f94c9a8dc0d7e60bbc8, type: 3}
+  m_Name: PERFECT FACTORY
+  m_EditorClassIdentifier: Assembly-CSharp::DungeonRoomFactory
+  startRoomPrefab: {fileID: -3263027272827108445, guid: fa37754132dea7249bda92cf7370974c, type: 3}
+  bossRoomPrefab: {fileID: 6162203607625085772, guid: ec977b613a11b1549bf4eb26a3a34d06, type: 3}
+  normalRoomPrefabs:
+  - {fileID: 5421283354207029019, guid: b96151cb3271bbd47ba1c44bf17f195e, type: 3}
+  - {fileID: 4354374984408455769, guid: aedbf8d2a80c6304ebd251857d680f08, type: 3}
+  - {fileID: 4016786137106354859, guid: f3e251f6a3329214999131a4261305e4, type: 3}
+  - {fileID: 3999372338442753572, guid: 28f3955aac429cc49bb0a72898c38de0, type: 3}
+  - {fileID: 7711879721966843348, guid: 6bc6e85c0e3647c49b00da1b5e029689, type: 3}
+  - {fileID: 461935718331150214, guid: a8e66ea9474866544bd41f47991d0a09, type: 3}
+  - {fileID: 6422520814629375387, guid: 863d4622271d09c489774df686902840, type: 3}
+  - {fileID: 5111504462289567181, guid: 2865e6601da47de4b8862c9c4fbef1d6, type: 3}
+  - {fileID: 3870838393461530784, guid: ce5c444032231854fbe5f87e7736ca90, type: 3}
+  - {fileID: 5421283354207029019, guid: 3fcc3ae17754dc546b70f0281fe62bee, type: 3}
+  - {fileID: 5421283354207029019, guid: 26dbc87789bb8424ea5be1544a49069a, type: 3}
+  - {fileID: 4354374984408455769, guid: 7c14e5ee489c26349833c42fd6ca9c0b, type: 3}
+  - {fileID: 4354374984408455769, guid: ff20b461ece65d741b9200570d08cd45, type: 3}
+  - {fileID: 4016786137106354859, guid: 06c782c6655d36a4cbf2e7308c2a692f, type: 3}
+  - {fileID: 4016786137106354859, guid: c0e001ed27b0ebd46a5f53e75f0b8eb8, type: 3}
+  - {fileID: 3999372338442753572, guid: aca87f485b935a14f819623107da9ca6, type: 3}
+  - {fileID: 3999372338442753572, guid: 1aed4f26b5ab8724b80e3dc307150ded, type: 3}
+  - {fileID: 7711879721966843348, guid: 75b6d4e126fac9442892934d7134cbae, type: 3}
+  - {fileID: 7711879721966843348, guid: 295872c0cc811d24793848e13e502080, type: 3}
+  - {fileID: 461935718331150214, guid: 6337c944f25591940beddb51379f7007, type: 3}
+  - {fileID: 461935718331150214, guid: a4b942aa416832e45b251c64d0660c47, type: 3}
+  - {fileID: 6422520814629375387, guid: 65e2f61f83a0c86499307220e0b42d5e, type: 3}
+  - {fileID: 6422520814629375387, guid: c6345956739bd474a9e736444188e36f, type: 3}
+  - {fileID: 5111504462289567181, guid: bdc6adfbd3b5a744d88368a63d446893, type: 3}
+  - {fileID: 5111504462289567181, guid: 81c3e2e668aca8648b05acef20b9ba3e, type: 3}
+  - {fileID: 3870838393461530784, guid: 8b05a175e813fa34eae73729e5fb22cd, type: 3}
+  - {fileID: 3870838393461530784, guid: b0e2b7dc192227846a5a990908962b66, type: 3}
+  corridorPrefabs:
+  - {fileID: 2138393999432403757, guid: 25ad4edc0499cac4bab18540cf4cdd42, type: 3}
+  - {fileID: 8615669988653760012, guid: a293400eeb76c004a854acf80dbd2b9b, type: 3}
+  - {fileID: 9181450239530799719, guid: c39d6d2fada23944b82c70e45ce0b35e, type: 3}
+  - {fileID: 6610423364609867063, guid: 9ca353a7f51345542aeb27fc5c520b5e, type: 3}
+  enemyPrefabs:
+  - {fileID: 7870548170682021947, guid: e2a03fd158d5a57488cae32e9c61f91d, type: 3}
+  - {fileID: 8363986507964195750, guid: 9bc8758025598e6449ca55ee78397a97, type: 3}
+  - {fileID: 6356354323375676352, guid: 27dcebe49c154bd4f9ced03dd81b05ba, type: 3}
+  bossEnemyPrefab: {fileID: 7833583261026438320, guid: da361f5718c94434ca7855b9111180bf, type: 3}
+  wallPrefab: {fileID: 9019650632466780936, guid: 5dbd6a4cd6af2454e8c95ef55c30a033, type: 3}

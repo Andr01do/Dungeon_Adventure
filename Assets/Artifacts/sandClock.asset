@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f714733947e895149a13b5e8e968e07c, type: 3}
+  m_Name: sandClock
+  m_EditorClassIdentifier: Assembly-CSharp::ArtifactSO
+  artifactID: art_clock
+  unlockConditionDescription: 
+  unlockType: 2
+  achievementConditionID: 
+  dropChance: 30
+  artifactName: art_sandclock
+  description: art_sandclock_desc
+  icon: {fileID: 21300000, guid: 53574a610998dd94abab72ad28904c6a, type: 3}
+  modifiers:
+  - statType: 5
+    mode: 0
+    value: 0.1
